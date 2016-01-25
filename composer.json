@@ -7,5 +7,11 @@
 	"require": {
 		"php": ">=5.3.0"
 	},
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+	"autoload": {
+		"files": [
+                    "PhpSIP.Exception.php",
+                    "PhpSIP.class.php"
+                ]
+	}
 }
