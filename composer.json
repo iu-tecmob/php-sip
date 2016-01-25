@@ -1,0 +1,11 @@
+{
+	"name": "iu-tecmob/php-sip",
+	"keywords": ["sip"],
+	"homepage": "https://github.com/iu-tecmob/php-sip",
+	"license": "LGPL",
+	"type": "library",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"minimum-stability": "dev"
+}
